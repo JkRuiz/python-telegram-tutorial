@@ -9,7 +9,7 @@ db = DBHelper()
 taskSh = taskScheduler()
 
 
-TOKEN = "784913428:AAFKWZj-d7bxfm4uyRoj2jg_GypOsHFCaT8"
+TOKEN = "EN_EL_WINDOWS_PC"
 URL = "https://api.telegram.org/bot{}/".format(TOKEN)
 addingTaskTask = False
 addingTaskHours = False
